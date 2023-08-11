@@ -2,18 +2,18 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.posh-technologies</groupId>
-	<artifactId>posh-technologies</artifactId>
+	<groupId>com.employee-systems</groupId>
+	<artifactId>employee-systems</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	
-	<name>posh-technologies</name>
+	<name>employee-systems</name>
 
-	<description>Maven Web App for Java Projects</description>
+	<description>Maven Web Application for Java Projects</description>
 
 	<organization>
-		<name>posh-technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>employee-systems</name>
+		<url>http://employee.systems.hub/</url>
 	</organization>
 
 	<properties>
@@ -100,20 +100,20 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-release/</url>
+	      <name>Employee Systems Release Nexus Repository</name>
+	      <url>http://44.192.22.210:8081/repository/employee-systems-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-snapshot/</url>
+	      <name>Emplotee Systems Snapshot Nexus Repository</name>
+	      <url>http://44.192.22.210:8081/repository/employee-systems-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>posh-technologies</finalName>
+		<finalName>employee-systems</finalName>
 		
 		<plugins>
 			<plugin>
@@ -133,7 +133,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/posh-technologies</contextPath>
+						<contextPath>/employee-systems</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -146,7 +146,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>posh-technologies</wtpContextName>
+					<wtpContextName>employee-systems</wtpContextName>
 				</configuration>
 			</plugin>
 			
