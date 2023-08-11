@@ -4,32 +4,28 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Posh Technologies Pvt Ltd - Home Page</title>
-<!-- link href="images/mithunlogo.jpg" rel="icon" -->
+<title>Employee Systems Apple </title>
 </head>
 </head>
 <body>
-<h1 align="center">Welcome! to Posh Technologies Pvt Ltd.</h1>
-<h1 align="center"> MSS- Posh Technologies Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
+<h1 align="center">Welcome! to Employee Systems Apple Project.</h1>
+<h1 align="center"> MSS- Employee Systems is Apple Intranet Application and for Product Development</h1>
 <hr>
 <div style="text-align: center;">
-	<!-- span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span -->
-	<span style="font-weight: bold;">
-		Posh Technologies,
+		<span style="font-weight: bold;">
+		Employee Systems,
 		Bangalore,
-		praveendevopsblr@gmail.com
+		arjunkrishna@gmail.com
 		<br>
-		<a href="mailto:praveendevopsblr@gmail.com">Mail to Posh Technologies</a>
+		<a href="mailto:arjunkrishna@gmail.com">Mail to Arjun Krishna</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Posh Technologies - Outsourcing, Consulting, Services, Product development.</p>
-<p align=center><small>Copyrights 2020 by <a href="http://mithuntechnologies.com/">Posh Technologies</a> </small></p>
+<p align=center>Employee Systems is Apple Intranet Application Product development.</p>
+<p align=center><small>Copyrights 2023 by <a href="http://employee-systems.hub/">Employee Systems</a> </small></p>
 
 </body>
 </html>
