@@ -1,4 +1,4 @@
-package com.mt.services;
+package com.es.services;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -22,10 +22,10 @@ public class EmployeeService {
 			throws JSONException {
 
 		JSONObject js = new JSONObject();
-		js.put("Name", "Posh Technologies");
-		js.put("Calling Name", "Posh");
+		js.put("Name", "Employee Systems");
+		js.put("Calling Name", "Emp");
 		js.put("DOB", "23-Oct-1992");
-		js.put("Hobbies", "Reading Technical Blogs,Teaching, Helping to Poor People..");
+		js.put("Hobbies", "Reading Technical Blogs, Teaching, Providing DevSecOps guidance..");
 		js.put("Places he like", "His native place");
 
 		return js.toString();
